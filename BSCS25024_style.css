@@ -1,0 +1,82 @@
+body
+{
+    background-color: rgb(193, 193, 193);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+a
+{
+    color: rgb(0, 0, 0);
+    text-justify: center;
+    justify-items: center;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    padding: 50px;
+}
+div{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    padding: 50px;
+}
+h1
+{
+    color : rgb(81, 0, 0);
+    text-size-adjust: 50px;
+    text-align: center;
+    text-decoration: wavy;
+    font-weight: bold;
+    align-items: center;
+    align-content: center;
+    padding: 50px;
+}
+h2
+{
+    color :rgb(127, 89, 0);
+    
+}
+footer
+{
+    color :rgb(0, 13, 63);
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+}
+.id1
+{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    padding: 50px;
+
+}
+.id2
+{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    padding: 50px;
+}
+.id3
+{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    padding: 50px;
+}
